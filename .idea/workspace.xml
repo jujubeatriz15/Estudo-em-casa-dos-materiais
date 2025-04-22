@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="42cf052a-7986-47e0-af81-eb5d0b7aef06" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revisao02.py" beforeDir="false" afterPath="$PROJECT_DIR$/revisao02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "Python.revisao01.executor": "Run",
     "Python.revisao02.executor": "Run",
     "Python.revisao03.executor": "Run",
+    "Python.revisao04.executor": "Run",
     "Python.tentativa01.executor": "Run",
     "Python.tentativa03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745242991355</updated>
       <workItem from="1745242992466" duration="893000" />
-      <workItem from="1745281074504" duration="8498000" />
+      <workItem from="1745281074504" duration="9605000" />
     </task>
     <servers />
   </component>
@@ -77,6 +77,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Estudo_em_casa_dos_materiais$revisao04.coverage" NAME="revisao04 Coverage Results" MODIFIED="1745355345249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Estudo_em_casa_dos_materiais$revisao03.coverage" NAME="revisao03 Coverage Results" MODIFIED="1745354717891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Estudo_em_casa_dos_materiais$revisao01.coverage" NAME="revisao01 Coverage Results" MODIFIED="1745281880403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Estudo_em_casa_dos_materiais$tentativa03.coverage" NAME="tentativa03 Coverage Results" MODIFIED="1745243713357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
