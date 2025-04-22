@@ -1,4 +1,4 @@
-repetir = "s" or "S"
+repetir = "s"
 
 while repetir == "s" or repetir == "S":
     num = int(input("digite um numero: "))
